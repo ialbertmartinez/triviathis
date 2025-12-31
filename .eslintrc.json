@@ -1,0 +1,7 @@
+{
+   "rules": {
+     "no-unused-vars":"off",
+     "eslint-plugin-vue/no-parsing-error": "off"
+     // Add other rules here
+   }
+ }
